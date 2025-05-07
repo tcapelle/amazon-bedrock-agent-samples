@@ -28,7 +28,7 @@ Each subdirectory contains its own detailed README with specific setup instructi
 Complete span hierarchy with proper parent-child relationships
 Token usage tracking for LLM operations
 Support for both streaming and non-streaming responses
-Compatible with multiple observability platforms (Arize, Langfuse, etc.)
+Compatible with multiple observability platforms (Arize, Langfuse, Weave etc.)
 Detailed trace and performance metrics
 
 ## Contributing
