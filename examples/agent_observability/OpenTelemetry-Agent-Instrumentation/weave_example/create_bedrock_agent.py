@@ -10,7 +10,7 @@ This script handles:
 
 import os
 import time
-import uuid
+import uuid 
 import json
 import boto3
 from dotenv import load_dotenv
